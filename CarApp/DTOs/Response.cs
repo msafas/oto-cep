@@ -1,7 +1,7 @@
 using System.Net;
 using System.Text.Json.Serialization;
 
-namespace DocvivoCrm.Framework.DTOs;
+namespace CarApp.DTOs;
 
 public class Response<T>
 {

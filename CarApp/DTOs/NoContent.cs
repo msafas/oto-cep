@@ -1,4 +1,4 @@
-namespace DocvivoCrm.Framework.DTOs;
+namespace CarApp.DTOs;
 
 public class NoContent
 {

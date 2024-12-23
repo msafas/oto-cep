@@ -1,7 +1,7 @@
-using DocvivoCrm.Framework.DTOs;
+using CarApp.DTOs;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DocvivoCrm.Framework.ControllerBases;
+namespace CarApp.ControllerBases;
 
 [ApiController]
 [Route("api/[controller]")]
